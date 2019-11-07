@@ -2,4 +2,9 @@ This is a new text document
 
 Command Line Info
 git init - initializes git for tracking and version control
+git add - adds a file to the git tracking 
+git commit - commits a file to be tracked
+git commit -m "message" : committing a file with a message to confirm the changes in the present tense
+git add . : adds everything in the directory instead of one by one
+
 ls -a shows hidden files
