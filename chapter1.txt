@@ -1,0 +1,5 @@
+This is a new text document
+
+Command Line Info
+git init - initializes git for tracking and version control
+ls -a shows hidden files
